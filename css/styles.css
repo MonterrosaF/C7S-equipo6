@@ -1,0 +1,80 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+  margin: 0;
+  padding: 0;
+}
+
+.primary-background-color {
+  background-color: #c4c4c4;
+}
+
+.logo {
+  text-align: center;
+  background-color: #e5e5e5;
+}
+
+.box-title {
+  display: flex;
+  height: 60px;
+}
+
+.titles {
+  letter-spacing: 10px;
+  color: #005677;
+  font-weight: 700;
+}
+
+.logo-title {
+  margin: 0 auto;
+  font-size: 35px;
+  line-height: 29.64px;
+  align-self: center;
+}
+
+.general-info {
+  margin: 6.5% 20%;
+}
+
+.general-info-box-title {
+  display: flex;
+  height: 30px;
+}
+
+.general-info-title {
+  align-self: center;
+  margin: 0 0 0 2%;
+  font-size: 20px;
+  line-height: 16.94px;
+}
+
+.general-info article ul {
+  margin: 10px 5% 25px;
+}
+
+.general-info article ul li {
+  padding: 5px;
+}
+
+.general-info article ul li p {
+  font-size: 15px;
+  font-weight: 400;
+  display: inline-flex;
+}
+
+footer{
+    height: 37px;
+    background-color: #005677;
+    display: flex;
+}
+
+footer section {
+    align-self: center;
+    margin: 0 auto;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+footer section a{
+    margin-left: 25px;
+}
